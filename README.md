@@ -9,7 +9,7 @@ I have no clue how most of this works lol. The EOS Utility is .net so I opened i
 Usage:
   - Download the release
   - On your camera go to Wireless communication settings -> wi-fi function
-  - Click on the "INFO. View info" button and put the camera's mac address inside of macaddres.txt
+  - Click on the "INFO. View info" button and put the camera's mac address inside of macaddress.txt
     After that Press the menu button to go back then go to Remote control (EOS Utility) -> Select a network. Then setup your network and start pairing
   
   - Run the SetupUpnp.exe, This stays running the whole time you want to have a connection with your camera.
