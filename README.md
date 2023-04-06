@@ -1,7 +1,7 @@
 # eos-utility-reversed
 This takes the wifi functions from the EOS Utility windows desktop app and allows you to use them with the EDSDK
 
-I have no clue how most of this works lol. The EOS Utility is .net so I opened it in dnspy took the important code slapped it in chat gpt to convert it to c++ and it worked.
+I have no clue how most of this works lol. The EOS Utility is .net so I opened it in dnspy took the important code slapped it in chat gpt to convert it to c++ and it somehow worked lmao.
 
 Usage:
   - Download the release
